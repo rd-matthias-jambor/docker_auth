@@ -19,7 +19,7 @@ jobs:
           version: v1.26
           
           # Optional: working directory, useful for monorepos
-          working-directory: "/auth_server"
+          working-directory: "auth_server"
 
           # Optional: golangci-lint command line arguments.
           # args: --issues-exit-code=0
